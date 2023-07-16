@@ -24,7 +24,7 @@
 <hr>
 
 <h4 p align="left">📄 Certifications </h4> </p>
-<p>AZ-900</p> <hr>
+<h5 p align="left">AZ-900</h5></p> <hr>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=henriquedcmonteiro)](https://github.com/henriquedcmonteiro)
 
