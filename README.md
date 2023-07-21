@@ -6,7 +6,7 @@
 <p align="left">I love connect services and people merging them in a whole amazing structure of communication, tasks and process. 
 
 <h4>🤝 Any doubts? Connect with me: </h4> 
-<a href="#" rel="nofollow"> <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/henriquedecamposmonteiro/" rel="nofollow"> <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <br> <hr size="1px">
  <!--- 💬 If you have any question/feedback, I am here to help. --->
 
