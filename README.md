@@ -3,7 +3,7 @@
 <a href="#"><h3 p align="center"> Hi there, I am Henrique 👋 <h3></p><a>
 <h2 p align="center"> I am a DevOps Engineer ☁, Graduate student in DevOps 📚 </h2></p>
 
-<p align="left">I love connect services and people merging them in a whole amazing structure of communication, tasks and process. 
+<p align="left">I love connect services and people merging them in a whole amazing structure of communication, tasks and processes. 
 
 <h4>🤝 Any doubts? Connect with me: </h4> 
 <a href="https://www.linkedin.com/in/henriquedecamposmonteiro/" rel="nofollow"> <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
