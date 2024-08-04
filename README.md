@@ -1,7 +1,7 @@
 ![banner git](https://github.com/henriquedcmonteiro/henriquedcmonteiro/assets/139652963/e2cad4ca-f797-4e39-8ce8-44e05eedb7d4)
 
 <a href="#"><h3 p align="center"> Hi there, I am Henrique 👋 <h3></p><a>
-<h2 p align="center"> I am a DevOps Engineer ☁, Graduate student in DevOps 📚 </h2></p>
+<h2 p align="center"> I am a Infrastructure Analyst at Brazil 📚 </h2></p>
 
 <p align="left">I love connect services and people merging them in a whole amazing structure of communication, tasks and processes. 
 
@@ -25,6 +25,7 @@
 
 <h4 p align="left">📄 Certifications </h4> </p>
 <h5 p align="left">AZ-900</h5></p> <hr>
+<h5 p align="left"AWS Certified Cloud Practitioner</h5></p> <hr>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=henriquedcmonteiro)](https://github.com/henriquedcmonteiro)
 
